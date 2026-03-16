@@ -1,13 +1,18 @@
 # 🏡 Homy — Trusted Home Care Services
-🚧 **Project Update in Progress**
->
-> This project is currently being improved and refactored.  
-> The information in this README reflects the previous version for reference while updates are in progress.
->
-> Updated documentation and features will be added soon.
 
-> **ดูแลบ้านให้คุณ อย่างใส่ใจ เหมือนคนในครอบครัว**
+> **ดูแลบ้านให้คุณ อย่างใส่ใจ เหมือนคนในครอบครัว**  
 > *Taking care of your home with heart — like family.*
+
+---
+
+## 🚧 Project Status
+
+> **This project is currently under active improvement and refactoring.**
+>
+> The information in this README reflects the **previous prototype version** and is temporarily kept for reference while the new version is being developed.
+>
+> Updated documentation, features, and architecture will be published soon.
+
 
 ![Homy Homepage](./public/screenshot.png)
 
